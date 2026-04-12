@@ -19,4 +19,4 @@ This is a simple application that allows users to shut down their system using p
 
 ## ▶️ How to Run
 ```bash
-# just run the program
+python shutdown_app.py
