@@ -13,10 +13,10 @@ This is a simple application that allows users to shut down their system using p
 ---
 
 ## 🛠️ Tech Stack
-- Language: (Python / C++ — jo tumne use kiya hai likh dena)
+- Language: Python
 
 ---
 
 ## ▶️ How to Run
 ```bash
-# run the program
+# just run the program
